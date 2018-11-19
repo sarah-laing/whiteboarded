@@ -1,1 +1,1 @@
-Problems from interviews and firecode.io. These are exercises, clearly coded to production standards.
+Problems from interviews and firecode.io. These are exercises, clearly not coded to production standards.
